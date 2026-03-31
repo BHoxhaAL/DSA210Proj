@@ -1,7 +1,6 @@
 # Analyzing the Effect of Ramadan on Football Player Performance Across Europe's Top Five Leagues
 
-*DSA210 – Introduction to Data Science (Spring 2025–2026)*
-Buen Hoxha #36048
+*DSA210 – Introduction to Data Science (Spring 2025–2026) | Buen Hoxha*
 ---
 
 ## 1. Motivation
