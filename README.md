@@ -172,7 +172,33 @@ The ML analysis reinforces this: days into Ramadan is a meaningful predictor of 
 
 ---
 
-## 10. Repository Structure
+## 10. How to Reproduce
+
+1. Clone the repository
+
+```
+git clone https://github.com/BHoxhaAL/DSA210Proj.git
+```
+
+2. Install dependencies
+
+```
+pip install pandas numpy matplotlib seaborn scipy scikit-learn soccerdata
+```
+
+3. Build the dataset
+
+```
+python filter_players.py
+python save_all_fbref.py
+python build_final_dataset.py
+```
+
+4. Open `analysis.ipynb` in Jupyter or VS Code and run all cells in order
+
+---
+
+## 11. Repository Structure
 
 | File | Description |
 |------|-------------|
